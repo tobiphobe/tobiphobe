@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tobiphobe - he/she
+- 👋 Hi, I’m @tobiphobe - he/they
 - 🌱 I’m currently learning C++ and Python
 - 📫 You can reach me through the links in my bio
 
